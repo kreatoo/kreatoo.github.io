@@ -72,14 +72,14 @@
     --SKIN-interactive-muted: var(--black3);
 
     /* Background */
-    --SKIN-background-primary: var(--black2);
-    --SKIN-background-secondary: var(--black1);
+    --SKIN-background-primary: var(--black2); 
+    --SKIN-background-secondary: var(--black1); 
     --SKIN-background-tertiary: var(--black1);
 
     /* Accent / Blurple */
-    --SKIN-accent-primary: var(--black1);
-    --SKIN-accent-secondary: var(--black1);
-    --SKIN-accent-tertiary: var(--black1);
+    --SKIN-accent-primary: var(--black4); /* */
+    --SKIN-accent-secondary: var(--black3);
+    --SKIN-accent-tertiary: var(--lavender);
 
     /* Green */
     --SKIN-green-primary: var(--green);
