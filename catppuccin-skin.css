@@ -72,9 +72,9 @@
     --SKIN-interactive-muted: var(--black3);
 
     /* Background */
-    --SKIN-background-primary: var(--black2); 
-    --SKIN-background-secondary: var(--black1); 
-    --SKIN-background-tertiary: var(--black1);
+    --SKIN-background-primary: var(--black0);
+    --SKIN-background-secondary: var(--black1);
+    --SKIN-background-tertiary: var(--black0);
 
     /* Accent / Blurple */
     --SKIN-accent-primary: var(--black4); /* */
